@@ -1,5 +1,7 @@
 # Vitor Meriat
 
+### Data Scientist | Machine Learning Engineer | MBA Professor | MVP AI | MSc Student
+
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://www.vitormeriat.com.br/)
 
 <br/>
@@ -23,7 +25,7 @@ Vitor is a frequent speaker at conferences in Brazil, like QCon. He was chosen a
 * Build infrastructure to decrease the time a model takes to go from inception to production;
 * Research with an emphasis on Natural Language Processing, Text Mining, and Computer Vision.
 
-<br/><br/>
+<br/>
 
 ## My skills:
 <br/>
