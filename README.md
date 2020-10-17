@@ -43,3 +43,9 @@ Vitor is a frequent speaker at conferences in Brazil, like QCon. He was chosen a
 
 <!-- <img src="https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> 
 <img src="https://img.shields.io/badge/nvidia-cuda-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />-->
+
+![](https://komarev.com/ghpvc/?username=vitormeriat&color=green&style=flat)
+
+<center>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormeriat&hide=html&layout=compact&theme=buefy" />
+</center>  
