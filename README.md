@@ -41,6 +41,11 @@ Vitor is a frequent speaker at conferences in Brazil, like QCon. He was chosen a
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-1f425f.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
-<center>
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormeriat&hide=html&layout=compact&theme=buefy" />
-</center>  
+<p align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=vitormeriat&count_private=true&show_icons=true&theme=bear">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormeriat&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
+  </a>
+</p>
