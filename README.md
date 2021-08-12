@@ -1,6 +1,6 @@
 # Vitor Meriat
 
-### Data Scientist | Machine Learning Engineer | MBA Professor | MVP AI | MSc Student
+### Machine Learning Engineer | MBA Professor | MVP AI | MSc Student
 
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://www.vitormeriat.com.br/)
 
