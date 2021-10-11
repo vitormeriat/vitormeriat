@@ -17,13 +17,11 @@ Vitor is a computer scientist who is passionate about creating software that wil
 
 <br/>
 
-Currently, he works as a Data Scientist and Machine Learning Engineer at ESX, where he is helping to shape new disruptive services based on Cloud Computing, Big Data, and Artificial Intelligence.
-
 Vitor is a frequent speaker at conferences in Brazil, like QCon. He was chosen as an MVP (Microsoft Most Valuable Professional) in 2016 as a recognition of her contribution to the Microsoft community.
 
 * Automate the creation and tuning of different machine learning models;
 * Build infrastructure to decrease the time a model takes to go from inception to production;
-* Research with an emphasis on Natural Language Processing, Text Mining, and Computer Vision.
+* Research with an emphasis on Natural Language Processing, Text Mining, and Graph Neural Networks.
 
 <br/>
 
